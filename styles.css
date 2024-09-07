@@ -1,0 +1,120 @@
+body {
+    font-family: "Chakra Petch", sans-serif;
+    background-color: #87ceeb;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.center-content {
+    text-align: center; /* Alinha o conteúdo ao centro */
+    flex-direction: column;
+    height: 100vh;  
+    
+}
+
+.prisma-image {
+    width: 50px; /* ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-right: 10px; /* espaço entre a imagem e o texto */
+}
+
+#game {
+    background-color: #c8c8f1;
+    border-radius: 40px;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 700px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 2.5rem; /* Tamanho da fonte */
+    color: #222831; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    letter-spacing: 0.4rem; /* Espaçamento entre letras */
+    margin: 0;
+}
+
+#question {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Estiliza os títulos h2 */
+h2 {
+    font-size: 1.5rem; /* Tamanho da fonte */
+    color: #031933; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    letter-spacing: 0rem; /* Espaçamento entre letras */
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+button {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px 20px;
+    font-size: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 300px; /* Largura fixa dos botões */
+    height: 90px; /* Altura fixa dos botões */
+    text-align: center;
+
+    
+}
+
+button.correct {
+    background-color: #4CAF50 !important;
+}
+
+button.incorrect {
+    background-color: #f44336 !important;
+}
+
+button:hover {
+    background-color: #246ab4;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Estiliza o rodapé da página */
+footer {
+    background-color: #021018; /* Cor de fundo do rodapé */
+    color: #eaf0fa; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    padding: 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+    position: absolute; /* Posiciona o rodapé */
+    bottom: 0; /* Alinha ao fundo da página */
+    font-size: 1rem; /* Tamanho da fonte */
+}
+
+footer {
+    font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
+}
+a {
+    color: white; /* Define a cor do texto do link como branco */
+   
+}
