@@ -27,6 +27,10 @@ Opção de reiniciar o quiz ao final do jogo.
 2. Navegue até o diretório do projeto: cd quiz-gemini
 3. Abra o arquivo index.html. Você pode abrir o arquivo index.html diretamente em seu navegador para visualizar o projeto.
 
+## 🎮 Quiz no ar!
+
+Para acessar, basta clicar: https://gemini-indol-phi.vercel.app/
+
 ## 📝 Como jogar
 Ao iniciar o quiz, você verá uma pergunta relacionada ao Google Gemini.
 Selecione uma das quatro opções de resposta.
