@@ -2,7 +2,7 @@
 
 ## ✨ Quiz Gemini
 
-Este é o projeto Quiz Gemini, criado para a Imersão de Desenvolvimento realizado pela Alura e pelo Google Gemini. O objetivo do projeto é realizar quiz de perguntas e respostas sobre a Inteligência Artificial do Google, o Google Gemini.
+Este é o projeto Quiz Gemini, criado para a Imersão DEV realizado pela Alura e pelo Google Gemini. O objetivo do projeto é realizar quiz de perguntas e respostas sobre a Inteligência Artificial do Google, o Google Gemini.
 
 ![quiz](https://github.com/user-attachments/assets/aa970286-7278-4ec1-96fc-29879b23235b)
 
